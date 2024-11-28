@@ -3,7 +3,7 @@
 
 import java.io.IOException;
  
-public class Main {
+public class Ex1000 {
  
     public static void main(String[] args) throws IOException {
  
